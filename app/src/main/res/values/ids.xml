@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text_action" type="id" />
+    <item name="constraint_Layout" type="id" />
+    <item name="image_lemon_state" type="id" />
+</resources>
